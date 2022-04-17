@@ -1,0 +1,6 @@
+com\wipro\mvc\dao\ProductDAO.class
+com\wipro\mvc\controller\ProductController.class
+com\wipro\mvc\service\ProductManagerImpl.class
+com\wipro\mvc\model\ProductVO.class
+com\wipro\mvc\service\ProductManager.class
+com\wipro\mvc\dao\ProductSDAOImpl.class
